@@ -1,8 +1,11 @@
 # MachineLearning-LoanDefaultPrediction
 Repository ini dibuat untuk kompetisi Hacktiv8 Talent Fair 2023 bersama Home Credit Indonesia. Repository ini mencakup eksplorasi data, model machine learning, serta evaluasi untuk analisis risiko kredit dan prediksi gagal bayar pinjaman.
 
+**External link:** [Model Deployment](https://huggingface.co/spaces/Dissashaf/home-credit-default-risk)
+
 # **Home Credit Indonesia Default Risk**
 `Raden Dissa Shafira | FTDS RMT-019 | 14/06/2023 `
+
 
 **Introduction**
 
